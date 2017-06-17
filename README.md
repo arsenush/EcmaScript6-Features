@@ -1,4 +1,4 @@
-# EcmaScript6-Features
+# EcmaScript6-Features Analyzing
 
 Date of creating: 21.05.2017
 
